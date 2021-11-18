@@ -1,5 +1,6 @@
 ```DREAMPlace``` is successfully executing (without docker) from my install directory, which is ```/home/sukanta/install```, this should be specified during cmake your_install_path.
 
+OS used Ubuntu 20.04 LTS (in virtual box).
 For successful installation:
 
 Clone it
